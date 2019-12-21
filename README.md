@@ -11,3 +11,5 @@ Para lograr realizar este modulo se realizaron cambios al controlador del admin 
 Ademas en dicha carpeta encontra las capturas de pantallas para que tenga una idea del funcionamiento del modulo. Esta carpeta no la deberia subir a su prestashop ya que es meramente informativa.
 
 Cualquier duda o bug, me la comentan.
+
+PD. Las URLs amigables para el controlador del front deben crearlas manualmente.
