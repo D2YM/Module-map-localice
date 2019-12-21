@@ -1,0 +1,1 @@
+<script src='{$module_link}' type="text/javascript"></script>

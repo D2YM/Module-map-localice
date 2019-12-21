@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{maplocalice}prestashop>maplocalice_a5cb48b1762dda38a35917a30045b6ba'] = 'Localización en el Mapa';
+$_MODULE['<{maplocalice}prestashop>maplocalice_a6095bd4c73c7dc666d45c255f36c8c3'] = 'Este es el Módulo para prestashop, para buscar comprar con google maps';
+$_MODULE['<{maplocalice}prestashop>maplocalice_58e0559207ce95c3954dc8b2b98545df'] = 'Invalida API KEY';
+$_MODULE['<{maplocalice}prestashop>maplocalice_52e7ba6f9d5bdb8137e0bc8a35843a09'] = 'Configuración en subida de API KEY';
+$_MODULE['<{maplocalice}prestashop>maplocalice_7a14c2dbadc5cfd7abfa5b566eff26f3'] = 'UPS! Ha ocurrido un error';
+$_MODULE['<{maplocalice}prestashop>maplocalice_51052f707a9744f233144a37b025849a'] = 'Invalido titulo de la derecha';
+$_MODULE['<{maplocalice}prestashop>maplocalice_b8593a5aed8c03913fede0b1cc661b96'] = 'Configuración de titulo actualizado a la izquierda';
+$_MODULE['<{maplocalice}prestashop>maplocalice_9b3945aa1f081a0a839c1541908b0233'] = 'Invalido contenido de la izquierda';
+$_MODULE['<{maplocalice}prestashop>maplocalice_2abf619c76387872bf1d2f3851c491e4'] = 'Configuración de contenido actualizado a la izquierda';
+$_MODULE['<{maplocalice}prestashop>maplocalice_4bb004b37ff3993eb38f045a39f055ff'] = 'Invalido titulo de la derecha';
+$_MODULE['<{maplocalice}prestashop>maplocalice_3829fed25d33aca21055e2c0f840e08d'] = 'Configuración de titulo actualizado a la derecha';
+$_MODULE['<{maplocalice}prestashop>maplocalice_d6541f8ed91adf73ad3f8a1851c5536f'] = 'Invalido contenido de la derecha';
+$_MODULE['<{maplocalice}prestashop>maplocalice_8265e6812905405d533dc141d2a357a5'] = 'Configuración de contenido actualizado a la derecha';
+$_MODULE['<{maplocalice}prestashop>ajax_7a505129b448ed7f6d67399a118552c7'] = 'Como llegar';
+$_MODULE['<{maplocalice}prestashop>ajax_294f707c2366a2433b3d4d87541a435b'] = 'Error en los datos';
+$_MODULE['<{maplocalice}prestashop>ajaxsellpoints_7a505129b448ed7f6d67399a118552c7'] = 'Como llegar';
+$_MODULE['<{maplocalice}prestashop>ajaxsellpoints_294f707c2366a2433b3d4d87541a435b'] = 'Error en los datos';
+$_MODULE['<{maplocalice}prestashop>configure_254f642527b45bc260048e30704edb39'] = 'Configuración';
+$_MODULE['<{maplocalice}prestashop>configure_d8ae4cd2f4418811eec5b9bed6d4512b'] = 'API KEY';
+$_MODULE['<{maplocalice}prestashop>configure_02859f9be2215d640b25f96b3d61dbe4'] = 'Servicio Técnico ';
+$_MODULE['<{maplocalice}prestashop>configure_a84d27773391cbdbb922d8e19882a39e'] = 'Columna Izquierda';
+$_MODULE['<{maplocalice}prestashop>configure_1d52224733f1ca9786ca57f9a4aa87e8'] = 'Columan Derecha';
+$_MODULE['<{maplocalice}prestashop>configure_f407e7462ec8262654e4cc466165f20c'] = 'Puntos de venta';
+$_MODULE['<{maplocalice}prestashop>configure_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{maplocalice}prestashop>displaysellpoints_f407e7462ec8262654e4cc466165f20c'] = 'Puntos de venta';
+$_MODULE['<{maplocalice}prestashop>displaysellpoints_fd69c5cf902969e6fb71d043085ddee6'] = 'Resultados';
+$_MODULE['<{maplocalice}prestashop>display_dbcb17a0d33144862057e7da8a2d5c6e'] = 'Servicio técnico y garantía';
+$_MODULE['<{maplocalice}prestashop>display_fd69c5cf902969e6fb71d043085ddee6'] = 'Resultados';
+$_MODULE['<{maplocalice}prestashop>map_dbcb17a0d33144862057e7da8a2d5c6e'] = 'Servicio técnico y garantía';
+$_MODULE['<{maplocalice}prestashop>map_fd69c5cf902969e6fb71d043085ddee6'] = 'Resultados';
